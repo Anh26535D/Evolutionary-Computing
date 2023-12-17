@@ -2,7 +2,6 @@ import numpy as np
 
 from tspsolver.BaseTSPSolver import BaseTSPSolver
 
-
 class ACOTSP(BaseTSPSolver):
 
     def __init__(self, 
